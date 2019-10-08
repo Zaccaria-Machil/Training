@@ -13,5 +13,5 @@ int main() {
           cin >> b;
            c=a+b;
            cout << "la somma e'' " << endl;
-      
+      cout << "fine programma" << endl;
 }
